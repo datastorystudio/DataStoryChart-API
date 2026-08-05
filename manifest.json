@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "version": 1,
+  "datasets": [
+    {
+      "id": "cities",
+      "version": 1,
+      "path": "Race-cities.json",
+      "bytes": 22637
+    },
+    {
+      "id": "co2",
+      "version": 1,
+      "path": "Race-co2.json",
+      "bytes": 19742
+    },
+    {
+      "id": "companies",
+      "version": 1,
+      "path": "Race-companies.json",
+      "bytes": 7112
+    },
+    {
+      "id": "gdp",
+      "version": 1,
+      "path": "Race-gdp.json",
+      "bytes": 21070
+    },
+    {
+      "id": "internet",
+      "version": 1,
+      "path": "Race-internet.json",
+      "bytes": 10539
+    },
+    {
+      "id": "military",
+      "version": 1,
+      "path": "Race-military.json",
+      "bytes": 9692
+    },
+    {
+      "id": "olympics",
+      "version": 1,
+      "path": "Race-olympics.json",
+      "bytes": 24567
+    },
+    {
+      "id": "population",
+      "version": 1,
+      "path": "Race-population.json",
+      "bytes": 42108
+    },
+    {
+      "id": "renewables",
+      "version": 1,
+      "path": "Race-renewables.json",
+      "bytes": 6534
+    }
+  ],
+  "_fingerprints": {
+    "cities": "18ddfa314dd9009b",
+    "co2": "2da2f8caf6e2f7d2",
+    "companies": "88441f144fabc676",
+    "gdp": "d08a9bd78973a82b",
+    "internet": "cf03c745739e61bd",
+    "military": "40390d95176c4c7d",
+    "olympics": "1b0994274ebea86b",
+    "population": "3ed31b3e612217be",
+    "renewables": "105f3056ab99079b"
+  }
+}
