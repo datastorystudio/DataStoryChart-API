@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 1,
+  "version": 2,
   "datasets": [
     {
       "id": "cities",
@@ -55,6 +55,12 @@
       "version": 1,
       "path": "Race-renewables.json",
       "bytes": 6534
+    },
+    {
+      "id": "streaming",
+      "version": 1,
+      "path": "Race-streaming.json",
+      "bytes": 3333
     }
   ],
   "_fingerprints": {
@@ -66,6 +72,7 @@
     "military": "40390d95176c4c7d",
     "olympics": "1b0994274ebea86b",
     "population": "3ed31b3e612217be",
-    "renewables": "105f3056ab99079b"
+    "renewables": "105f3056ab99079b",
+    "streaming": "9c883cbfa7cec98d"
   }
 }
