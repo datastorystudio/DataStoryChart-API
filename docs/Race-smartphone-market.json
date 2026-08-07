@@ -1,0 +1,189 @@
+{
+  "id": "smartphone-market",
+  "name": "Smartphone Market",
+  "subtitle": "Annual Shipments, 2016 → 2026",
+  "category": "technology",
+  "symbolName": "iphone",
+  "accent": "blue",
+  "metric": "Shipments",
+  "unit": "units",
+  "valueScale": 1000000.0,
+  "valuePrefix": "",
+  "valueSuffix": "",
+  "decimals": 0,
+  "source": "Demo data — not real market figures",
+  "latestActual": 2026,
+  "note": "Illustrative figures for trying out the app. These are not IDC, Canalys or Counterpoint numbers and should not be published as market data.",
+  "entities": [
+    {
+      "id": "apl",
+      "name": "Apple",
+      "emoji": "🍎",
+      "colorHex": "#777777"
+    },
+    {
+      "id": "sam",
+      "name": "Samsung",
+      "emoji": "📱",
+      "colorHex": "#2563EB"
+    },
+    {
+      "id": "xia",
+      "name": "Xiaomi",
+      "emoji": "📲",
+      "colorHex": "#F97316"
+    },
+    {
+      "id": "hua",
+      "name": "Huawei",
+      "emoji": "🌸",
+      "colorHex": "#DC2626"
+    },
+    {
+      "id": "opp",
+      "name": "OPPO",
+      "emoji": "🟢",
+      "colorHex": "#16A34A"
+    },
+    {
+      "id": "viv",
+      "name": "vivo",
+      "emoji": "💙",
+      "colorHex": "#0EA5E9"
+    }
+  ],
+  "frames": [
+    {
+      "period": 2016.0,
+      "label": "2016",
+      "values": {
+        "apl": 215,
+        "sam": 309,
+        "xia": 58,
+        "hua": 139,
+        "opp": 95,
+        "viv": 72
+      }
+    },
+    {
+      "period": 2017.0,
+      "label": "2017",
+      "values": {
+        "apl": 220,
+        "sam": 317,
+        "xia": 92,
+        "hua": 153,
+        "opp": 111,
+        "viv": 85
+      }
+    },
+    {
+      "period": 2018.0,
+      "label": "2018",
+      "values": {
+        "apl": 217,
+        "sam": 292,
+        "xia": 119,
+        "hua": 206,
+        "opp": 118,
+        "viv": 94
+      }
+    },
+    {
+      "period": 2019.0,
+      "label": "2019",
+      "values": {
+        "apl": 196,
+        "sam": 296,
+        "xia": 125,
+        "hua": 240,
+        "opp": 120,
+        "viv": 102
+      }
+    },
+    {
+      "period": 2020.0,
+      "label": "2020",
+      "values": {
+        "apl": 206,
+        "sam": 274,
+        "xia": 146,
+        "hua": 188,
+        "opp": 122,
+        "viv": 108
+      }
+    },
+    {
+      "period": 2021.0,
+      "label": "2021",
+      "values": {
+        "apl": 239,
+        "sam": 272,
+        "xia": 168,
+        "hua": 160,
+        "opp": 125,
+        "viv": 112
+      }
+    },
+    {
+      "period": 2022.0,
+      "label": "2022",
+      "values": {
+        "apl": 226,
+        "sam": 261,
+        "xia": 182,
+        "hua": 140,
+        "opp": 127,
+        "viv": 118
+      }
+    },
+    {
+      "period": 2023.0,
+      "label": "2023",
+      "values": {
+        "apl": 235,
+        "sam": 258,
+        "xia": 190,
+        "hua": 130,
+        "opp": 129,
+        "viv": 123
+      }
+    },
+    {
+      "period": 2024.0,
+      "label": "2024",
+      "values": {
+        "apl": 232,
+        "sam": 255,
+        "xia": 198,
+        "hua": 122,
+        "opp": 132,
+        "viv": 128
+      }
+    },
+    {
+      "period": 2025.0,
+      "label": "2025",
+      "values": {
+        "apl": 240,
+        "sam": 250,
+        "xia": 205,
+        "hua": 118,
+        "opp": 136,
+        "viv": 134
+      }
+    },
+    {
+      "period": 2026.0,
+      "label": "2026",
+      "values": {
+        "apl": 245,
+        "sam": 248,
+        "xia": 212,
+        "hua": 120,
+        "opp": 140,
+        "viv": 138
+      }
+    }
+  ]
+}
