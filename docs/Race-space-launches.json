@@ -1,0 +1,661 @@
+{
+  "id": "space-launches",
+  "name": "Space Launches",
+  "subtitle": "Orbital launches per year, 1957 → 2025",
+  "category": "technology",
+  "symbolName": "airplane.departure",
+  "accent": "purple",
+  "metric": "Orbital launches",
+  "unit": "launches per year",
+  "valueScale": 1.0,
+  "valuePrefix": "",
+  "valueSuffix": "",
+  "decimals": 0,
+  "source": "American Enterprise Institute, via Visual Capitalist / Hinrich Foundation",
+  "sourceURL": "https://www.visualcapitalist.com/sp/hf09-charted-annual-space-launches-by-country-19572026/",
+  "latestActual": 2025,
+  "note": "Every year is a published figure — nothing here is interpolated. Counts are launches attributed to the United States, Russia (the Soviet Union before 1992) and China. Other launch nations are omitted because no single source covers them on this methodology for the full period, and mixing sources would put incompatible numbers in the same race.",
+  "entities": [
+    {
+      "id": "usa",
+      "name": "United States",
+      "emoji": "🇺🇸",
+      "colorHex": "#3B82F6"
+    },
+    {
+      "id": "rus",
+      "name": "Russia / USSR",
+      "emoji": "🇷🇺",
+      "colorHex": "#EF4444"
+    },
+    {
+      "id": "chn",
+      "name": "China",
+      "emoji": "🇨🇳",
+      "colorHex": "#F59E0B"
+    }
+  ],
+  "frames": [
+    {
+      "period": 1957.0,
+      "label": "1957",
+      "values": {
+        "usa": 1,
+        "rus": 2,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1958.0,
+      "label": "1958",
+      "values": {
+        "usa": 23,
+        "rus": 5,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1959.0,
+      "label": "1959",
+      "values": {
+        "usa": 21,
+        "rus": 4,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1960.0,
+      "label": "1960",
+      "values": {
+        "usa": 29,
+        "rus": 9,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1961.0,
+      "label": "1961",
+      "values": {
+        "usa": 41,
+        "rus": 9,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1962.0,
+      "label": "1962",
+      "values": {
+        "usa": 59,
+        "rus": 22,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1963.0,
+      "label": "1963",
+      "values": {
+        "usa": 46,
+        "rus": 24,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1964.0,
+      "label": "1964",
+      "values": {
+        "usa": 64,
+        "rus": 36,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1965.0,
+      "label": "1965",
+      "values": {
+        "usa": 71,
+        "rus": 53,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1966.0,
+      "label": "1966",
+      "values": {
+        "usa": 77,
+        "rus": 51,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1967.0,
+      "label": "1967",
+      "values": {
+        "usa": 60,
+        "rus": 74,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1968.0,
+      "label": "1968",
+      "values": {
+        "usa": 48,
+        "rus": 80,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1969.0,
+      "label": "1969",
+      "values": {
+        "usa": 41,
+        "rus": 82,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1970.0,
+      "label": "1970",
+      "values": {
+        "usa": 29,
+        "rus": 87,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1971.0,
+      "label": "1971",
+      "values": {
+        "usa": 33,
+        "rus": 91,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1972.0,
+      "label": "1972",
+      "values": {
+        "usa": 32,
+        "rus": 79,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1973.0,
+      "label": "1973",
+      "values": {
+        "usa": 25,
+        "rus": 90,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1974.0,
+      "label": "1974",
+      "values": {
+        "usa": 23,
+        "rus": 85,
+        "chn": 2
+      }
+    },
+    {
+      "period": 1975.0,
+      "label": "1975",
+      "values": {
+        "usa": 30,
+        "rus": 93,
+        "chn": 3
+      }
+    },
+    {
+      "period": 1976.0,
+      "label": "1976",
+      "values": {
+        "usa": 26,
+        "rus": 100,
+        "chn": 3
+      }
+    },
+    {
+      "period": 1977.0,
+      "label": "1977",
+      "values": {
+        "usa": 26,
+        "rus": 102,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1978.0,
+      "label": "1978",
+      "values": {
+        "usa": 33,
+        "rus": 91,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1979.0,
+      "label": "1979",
+      "values": {
+        "usa": 16,
+        "rus": 89,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1980.0,
+      "label": "1980",
+      "values": {
+        "usa": 15,
+        "rus": 90,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1981.0,
+      "label": "1981",
+      "values": {
+        "usa": 19,
+        "rus": 100,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1982.0,
+      "label": "1982",
+      "values": {
+        "usa": 18,
+        "rus": 108,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1983.0,
+      "label": "1983",
+      "values": {
+        "usa": 22,
+        "rus": 100,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1984.0,
+      "label": "1984",
+      "values": {
+        "usa": 23,
+        "rus": 97,
+        "chn": 3
+      }
+    },
+    {
+      "period": 1985.0,
+      "label": "1985",
+      "values": {
+        "usa": 19,
+        "rus": 100,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1986.0,
+      "label": "1986",
+      "values": {
+        "usa": 9,
+        "rus": 94,
+        "chn": 2
+      }
+    },
+    {
+      "period": 1987.0,
+      "label": "1987",
+      "values": {
+        "usa": 9,
+        "rus": 97,
+        "chn": 2
+      }
+    },
+    {
+      "period": 1988.0,
+      "label": "1988",
+      "values": {
+        "usa": 11,
+        "rus": 94,
+        "chn": 4
+      }
+    },
+    {
+      "period": 1989.0,
+      "label": "1989",
+      "values": {
+        "usa": 18,
+        "rus": 75,
+        "chn": 0
+      }
+    },
+    {
+      "period": 1990.0,
+      "label": "1990",
+      "values": {
+        "usa": 27,
+        "rus": 79,
+        "chn": 5
+      }
+    },
+    {
+      "period": 1991.0,
+      "label": "1991",
+      "values": {
+        "usa": 19,
+        "rus": 61,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1992.0,
+      "label": "1992",
+      "values": {
+        "usa": 29,
+        "rus": 55,
+        "chn": 4
+      }
+    },
+    {
+      "period": 1993.0,
+      "label": "1993",
+      "values": {
+        "usa": 27,
+        "rus": 48,
+        "chn": 1
+      }
+    },
+    {
+      "period": 1994.0,
+      "label": "1994",
+      "values": {
+        "usa": 28,
+        "rus": 49,
+        "chn": 5
+      }
+    },
+    {
+      "period": 1995.0,
+      "label": "1995",
+      "values": {
+        "usa": 30,
+        "rus": 33,
+        "chn": 3
+      }
+    },
+    {
+      "period": 1996.0,
+      "label": "1996",
+      "values": {
+        "usa": 33,
+        "rus": 27,
+        "chn": 4
+      }
+    },
+    {
+      "period": 1997.0,
+      "label": "1997",
+      "values": {
+        "usa": 37,
+        "rus": 29,
+        "chn": 6
+      }
+    },
+    {
+      "period": 1998.0,
+      "label": "1998",
+      "values": {
+        "usa": 36,
+        "rus": 25,
+        "chn": 6
+      }
+    },
+    {
+      "period": 1999.0,
+      "label": "1999",
+      "values": {
+        "usa": 31,
+        "rus": 28,
+        "chn": 4
+      }
+    },
+    {
+      "period": 2000.0,
+      "label": "2000",
+      "values": {
+        "usa": 28,
+        "rus": 36,
+        "chn": 5
+      }
+    },
+    {
+      "period": 2001.0,
+      "label": "2001",
+      "values": {
+        "usa": 22,
+        "rus": 23,
+        "chn": 1
+      }
+    },
+    {
+      "period": 2002.0,
+      "label": "2002",
+      "values": {
+        "usa": 17,
+        "rus": 25,
+        "chn": 5
+      }
+    },
+    {
+      "period": 2003.0,
+      "label": "2003",
+      "values": {
+        "usa": 23,
+        "rus": 21,
+        "chn": 7
+      }
+    },
+    {
+      "period": 2004.0,
+      "label": "2004",
+      "values": {
+        "usa": 16,
+        "rus": 23,
+        "chn": 8
+      }
+    },
+    {
+      "period": 2005.0,
+      "label": "2005",
+      "values": {
+        "usa": 12,
+        "rus": 26,
+        "chn": 6
+      }
+    },
+    {
+      "period": 2006.0,
+      "label": "2006",
+      "values": {
+        "usa": 18,
+        "rus": 25,
+        "chn": 6
+      }
+    },
+    {
+      "period": 2007.0,
+      "label": "2007",
+      "values": {
+        "usa": 19,
+        "rus": 26,
+        "chn": 10
+      }
+    },
+    {
+      "period": 2008.0,
+      "label": "2008",
+      "values": {
+        "usa": 15,
+        "rus": 27,
+        "chn": 11
+      }
+    },
+    {
+      "period": 2009.0,
+      "label": "2009",
+      "values": {
+        "usa": 24,
+        "rus": 32,
+        "chn": 6
+      }
+    },
+    {
+      "period": 2010.0,
+      "label": "2010",
+      "values": {
+        "usa": 15,
+        "rus": 31,
+        "chn": 15
+      }
+    },
+    {
+      "period": 2011.0,
+      "label": "2011",
+      "values": {
+        "usa": 18,
+        "rus": 32,
+        "chn": 19
+      }
+    },
+    {
+      "period": 2012.0,
+      "label": "2012",
+      "values": {
+        "usa": 13,
+        "rus": 24,
+        "chn": 19
+      }
+    },
+    {
+      "period": 2013.0,
+      "label": "2013",
+      "values": {
+        "usa": 19,
+        "rus": 32,
+        "chn": 15
+      }
+    },
+    {
+      "period": 2014.0,
+      "label": "2014",
+      "values": {
+        "usa": 23,
+        "rus": 32,
+        "chn": 16
+      }
+    },
+    {
+      "period": 2015.0,
+      "label": "2015",
+      "values": {
+        "usa": 20,
+        "rus": 26,
+        "chn": 19
+      }
+    },
+    {
+      "period": 2016.0,
+      "label": "2016",
+      "values": {
+        "usa": 23,
+        "rus": 17,
+        "chn": 22
+      }
+    },
+    {
+      "period": 2017.0,
+      "label": "2017",
+      "values": {
+        "usa": 29,
+        "rus": 19,
+        "chn": 18
+      }
+    },
+    {
+      "period": 2018.0,
+      "label": "2018",
+      "values": {
+        "usa": 31,
+        "rus": 17,
+        "chn": 39
+      }
+    },
+    {
+      "period": 2019.0,
+      "label": "2019",
+      "values": {
+        "usa": 21,
+        "rus": 22,
+        "chn": 34
+      }
+    },
+    {
+      "period": 2020.0,
+      "label": "2020",
+      "values": {
+        "usa": 37,
+        "rus": 15,
+        "chn": 39
+      }
+    },
+    {
+      "period": 2021.0,
+      "label": "2021",
+      "values": {
+        "usa": 45,
+        "rus": 24,
+        "chn": 56
+      }
+    },
+    {
+      "period": 2022.0,
+      "label": "2022",
+      "values": {
+        "usa": 78,
+        "rus": 21,
+        "chn": 64
+      }
+    },
+    {
+      "period": 2023.0,
+      "label": "2023",
+      "values": {
+        "usa": 108,
+        "rus": 19,
+        "chn": 67
+      }
+    },
+    {
+      "period": 2024.0,
+      "label": "2024",
+      "values": {
+        "usa": 145,
+        "rus": 17,
+        "chn": 68
+      }
+    },
+    {
+      "period": 2025.0,
+      "label": "2025",
+      "values": {
+        "usa": 181,
+        "rus": 17,
+        "chn": 93
+      }
+    }
+  ]
+}

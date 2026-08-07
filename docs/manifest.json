@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": 3,
+  "version": 9,
   "datasets": [
     {
       "id": "smartphone-market",
-      "version": 1,
+      "version": 4,
       "path": "Race-Smartphone-Market.json",
-      "bytes": 3238
+      "bytes": 3428
     },
     {
       "id": "cities",
@@ -61,6 +61,12 @@
       "version": 1,
       "path": "Race-renewables.json",
       "bytes": 6534
+    },
+    {
+      "id": "space-launches",
+      "version": 1,
+      "path": "Race-space-launches.json",
+      "bytes": 11061
     }
   ],
   "_fingerprints": {
@@ -74,6 +80,7 @@
     "population": "3ed31b3e612217be",
     "renewables": "105f3056ab99079b",
     "streaming": "9c883cbfa7cec98d",
-    "smartphone-market": "7f873d2c0dad361e"
+    "smartphone-market": "2054cf9f3c3bf967",
+    "space-launches": "e095a5d7b6c2c052"
   }
 }
