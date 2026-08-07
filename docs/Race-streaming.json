@@ -1,0 +1,175 @@
+{
+  "id": "streaming",
+  "name": "Streaming Wars",
+  "subtitle": "Subscribers, 2016 → 2025",
+  "category": "media",
+  "symbolName": "play.tv.fill",
+  "accent": "pink",
+  "metric": "Subscribers",
+  "unit": "subscribers",
+  "valueScale": 1000000.0,
+  "valuePrefix": "",
+  "valueSuffix": "",
+  "decimals": 1,
+  "source": "Invented test data — not real figures",
+  "sourceURL": "https://datastorystudio.github.io/DataStoryChart-API/",
+  "latestActual": 2025,
+  "note": "A fictional dataset used to test remote syncing and a new category. The companies do not exist and the numbers are made up.",
+  "entities": [
+    {
+      "id": "aur",
+      "name": "Aurora",
+      "emoji": "🌅",
+      "colorHex": "#FF6B6B"
+    },
+    {
+      "id": "nim",
+      "name": "Nimbus",
+      "emoji": "☁️",
+      "colorHex": "#4C8DFF"
+    },
+    {
+      "id": "vex",
+      "name": "Vexa",
+      "emoji": "⚡️",
+      "colorHex": "#2ED47A"
+    },
+    {
+      "id": "orb",
+      "name": "Orbit",
+      "emoji": "🛰",
+      "colorHex": "#9B7DFF"
+    },
+    {
+      "id": "kel",
+      "name": "Kelvin",
+      "emoji": "❄️",
+      "colorHex": "#00C2A8"
+    },
+    {
+      "id": "zep",
+      "name": "Zephyr",
+      "emoji": "🌀",
+      "colorHex": "#FFB020"
+    }
+  ],
+  "frames": [
+    {
+      "period": 2016.0,
+      "label": "2016",
+      "values": {
+        "aur": 42.0,
+        "nim": 30.5,
+        "vex": 18.2,
+        "orb": 12.0,
+        "kel": 8.4
+      }
+    },
+    {
+      "period": 2017.0,
+      "label": "2017",
+      "values": {
+        "aur": 51.3,
+        "nim": 39.8,
+        "vex": 27.6,
+        "orb": 19.5,
+        "kel": 11.2
+      }
+    },
+    {
+      "period": 2018.0,
+      "label": "2018",
+      "values": {
+        "aur": 58.9,
+        "nim": 52.4,
+        "vex": 41.0,
+        "orb": 26.8,
+        "kel": 13.0
+      }
+    },
+    {
+      "period": 2019.0,
+      "label": "2019",
+      "values": {
+        "aur": 64.1,
+        "nim": 66.7,
+        "vex": 55.3,
+        "orb": 34.2,
+        "kel": 13.9,
+        "zep": 6.5
+      }
+    },
+    {
+      "period": 2020.0,
+      "label": "2020",
+      "values": {
+        "aur": 71.5,
+        "nim": 84.2,
+        "vex": 78.9,
+        "orb": 45.6,
+        "kel": 12.8,
+        "zep": 24.1
+      }
+    },
+    {
+      "period": 2021.0,
+      "label": "2021",
+      "values": {
+        "aur": 76.8,
+        "nim": 96.0,
+        "vex": 103.4,
+        "orb": 58.3,
+        "kel": 11.1,
+        "zep": 49.7
+      }
+    },
+    {
+      "period": 2022.0,
+      "label": "2022",
+      "values": {
+        "aur": 79.2,
+        "nim": 101.5,
+        "vex": 124.8,
+        "orb": 67.9,
+        "kel": 9.6,
+        "zep": 78.2
+      }
+    },
+    {
+      "period": 2023.0,
+      "label": "2023",
+      "values": {
+        "aur": 80.1,
+        "nim": 104.2,
+        "vex": 141.0,
+        "orb": 74.5,
+        "kel": 8.2,
+        "zep": 108.6
+      }
+    },
+    {
+      "period": 2024.0,
+      "label": "2024",
+      "values": {
+        "aur": 79.4,
+        "nim": 106.8,
+        "vex": 152.7,
+        "orb": 79.1,
+        "kel": 7.0,
+        "zep": 139.3
+      }
+    },
+    {
+      "period": 2025.0,
+      "label": "2025",
+      "values": {
+        "aur": 77.6,
+        "nim": 108.1,
+        "vex": 160.2,
+        "orb": 82.4,
+        "kel": 5.9,
+        "zep": 171.8
+      }
+    }
+  ]
+}
