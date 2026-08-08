@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 13,
+  "version": 15,
   "datasets": [
     {
       "id": "cities",
@@ -58,7 +58,7 @@
     },
     {
       "id": "smartphone-market",
-      "version": 7,
+      "version": 1,
       "path": "Race-smartphone-market.json",
       "bytes": 3470
     },
@@ -80,7 +80,7 @@
     "population": "3ed31b3e612217be",
     "renewables": "105f3056ab99079b",
     "streaming": "9c883cbfa7cec98d",
-    "smartphone-market": "9cfd105c7c03fe18",
-    "space-launches": "e095a5d7b6c2c052"
+    "space-launches": "e095a5d7b6c2c052",
+    "smartphone-market": "9cfd105c7c03fe18"
   }
 }
