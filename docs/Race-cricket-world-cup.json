@@ -1,0 +1,183 @@
+{
+  "id": "odi-cricket-world-cup",
+  "name": "ODI Cricket World Cup Winners",
+  "subtitle": "Cumulative ICC Men’s Cricket World Cup titles, 1975 → 2023",
+  "category": "sport",
+  "symbolName": "trophy.fill",
+  "accent": "orange",
+  "metric": "Cumulative World Cup titles",
+  "unit": "titles",
+  "valueScale": 1,
+  "valuePrefix": "",
+  "valueSuffix": "",
+  "decimals": 0,
+  "source": "International Cricket Council (ICC)",
+  "sourceURL": "https://www.icc-cricket.com/",
+  "latestActual": 2023,
+  "note": "Cumulative titles after each ICC Men’s Cricket World Cup. The 2023 tournament was the 13th edition; Australia won its sixth title.",
+  "entities": [
+    {
+      "id": "AUS",
+      "name": "Australia",
+      "emoji": "🇦🇺"
+    },
+    {
+      "id": "WI",
+      "name": "West Indies",
+      "emoji": "🏝️"
+    },
+    {
+      "id": "IND",
+      "name": "India",
+      "emoji": "🇮🇳"
+    },
+    {
+      "id": "PAK",
+      "name": "Pakistan",
+      "emoji": "🇵🇰"
+    },
+    {
+      "id": "SLK",
+      "name": "Sri Lanka",
+      "emoji": "🇱🇰"
+    },
+    {
+      "id": "ENG",
+      "name": "England",
+      "emoji": "🏴"
+    }
+  ],
+  "frames": [
+    {
+      "period": 1975.0,
+      "label": "1975",
+      "values": {
+        "WI": 1
+      }
+    },
+    {
+      "period": 1979.0,
+      "label": "1979",
+      "values": {
+        "WI": 2
+      }
+    },
+    {
+      "period": 1983.0,
+      "label": "1983",
+      "values": {
+        "WI": 2,
+        "IND": 1
+      }
+    },
+    {
+      "period": 1987.0,
+      "label": "1987",
+      "values": {
+        "AUS": 1,
+        "WI": 2,
+        "IND": 1
+      }
+    },
+    {
+      "period": 1992.0,
+      "label": "1992",
+      "values": {
+        "AUS": 1,
+        "WI": 2,
+        "IND": 1,
+        "PAK": 1
+      }
+    },
+    {
+      "period": 1996.0,
+      "label": "1996",
+      "values": {
+        "AUS": 1,
+        "WI": 2,
+        "IND": 1,
+        "PAK": 1,
+        "SLK": 1
+      }
+    },
+    {
+      "period": 1999.0,
+      "label": "1999",
+      "values": {
+        "AUS": 2,
+        "WI": 2,
+        "IND": 1,
+        "PAK": 1,
+        "SLK": 1
+      }
+    },
+    {
+      "period": 2003.0,
+      "label": "2003",
+      "values": {
+        "AUS": 3,
+        "WI": 2,
+        "IND": 1,
+        "PAK": 1,
+        "SLK": 1
+      }
+    },
+    {
+      "period": 2007.0,
+      "label": "2007",
+      "values": {
+        "AUS": 4,
+        "WI": 2,
+        "IND": 1,
+        "PAK": 1,
+        "SLK": 1
+      }
+    },
+    {
+      "period": 2011.0,
+      "label": "2011",
+      "values": {
+        "AUS": 4,
+        "WI": 2,
+        "IND": 2,
+        "PAK": 1,
+        "SLK": 1
+      }
+    },
+    {
+      "period": 2015.0,
+      "label": "2015",
+      "values": {
+        "AUS": 5,
+        "WI": 2,
+        "IND": 2,
+        "PAK": 1,
+        "SLK": 1
+      }
+    },
+    {
+      "period": 2019.0,
+      "label": "2019",
+      "values": {
+        "AUS": 5,
+        "WI": 2,
+        "IND": 2,
+        "PAK": 1,
+        "SLK": 1,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2023.0,
+      "label": "2023",
+      "values": {
+        "AUS": 6,
+        "WI": 2,
+        "IND": 2,
+        "PAK": 1,
+        "SLK": 1,
+        "ENG": 1
+      }
+    }
+  ]
+}

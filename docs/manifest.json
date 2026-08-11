@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 15,
+  "version": 16,
   "datasets": [
     {
       "id": "cities",
@@ -19,6 +19,12 @@
       "version": 1,
       "path": "Race-companies.json",
       "bytes": 7112
+    },
+    {
+      "id": "odi-cricket-world-cup",
+      "version": 1,
+      "path": "Race-cricket-world-cup.json",
+      "bytes": 3226
     },
     {
       "id": "gdp",
@@ -81,6 +87,7 @@
     "renewables": "105f3056ab99079b",
     "streaming": "9c883cbfa7cec98d",
     "space-launches": "e095a5d7b6c2c052",
-    "smartphone-market": "9cfd105c7c03fe18"
+    "smartphone-market": "9cfd105c7c03fe18",
+    "odi-cricket-world-cup": "c2132362e87c3916"
   }
 }
