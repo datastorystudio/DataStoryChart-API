@@ -1,0 +1,1532 @@
+{
+  "id": "nba-championships",
+  "name": "NBA Championships",
+  "subtitle": "Cumulative NBA championships, 1947 → 2026",
+  "category": "sport",
+  "symbolName": "trophy.fill",
+  "accent": "orange",
+  "metric": "Cumulative NBA championships",
+  "unit": "titles",
+  "valueScale": 1,
+  "valuePrefix": "",
+  "valueSuffix": "",
+  "decimals": 0,
+  "source": "National Basketball Association (NBA)",
+  "sourceURL": "https://www.nba.com/news/history-nba-champions",
+  "latestActual": 2026,
+  "note": "NBA.com's official year-by-year championship list is mapped to current franchise identities for the cumulative race. Historical franchise names/locations are consolidated into their current franchises.",
+  "entities": [
+    {
+      "id": "BOS",
+      "name": "Boston Celtics",
+      "emoji": "☘️"
+    },
+    {
+      "id": "LAL",
+      "name": "Los Angeles Lakers",
+      "emoji": "💜"
+    },
+    {
+      "id": "GSW",
+      "name": "Golden State Warriors",
+      "emoji": "🌉"
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bulls",
+      "emoji": "🐂"
+    },
+    {
+      "id": "SAS",
+      "name": "San Antonio Spurs",
+      "emoji": "⭐"
+    },
+    {
+      "id": "PHI",
+      "name": "Philadelphia 76ers",
+      "emoji": "🔔"
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Pistons",
+      "emoji": "🏀"
+    },
+    {
+      "id": "MIA",
+      "name": "Miami Heat",
+      "emoji": "🔥"
+    },
+    {
+      "id": "NYK",
+      "name": "New York Knicks",
+      "emoji": "🗽"
+    },
+    {
+      "id": "MIL",
+      "name": "Milwaukee Bucks",
+      "emoji": "🦌"
+    },
+    {
+      "id": "OKC",
+      "name": "Oklahoma City Thunder",
+      "emoji": "⚡"
+    },
+    {
+      "id": "HOU",
+      "name": "Houston Rockets",
+      "emoji": "🚀"
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Wizards",
+      "emoji": "🏀"
+    },
+    {
+      "id": "ATL",
+      "name": "Atlanta Hawks",
+      "emoji": "🦅"
+    },
+    {
+      "id": "SAC",
+      "name": "Sacramento Kings",
+      "emoji": "👑"
+    },
+    {
+      "id": "POR",
+      "name": "Portland Trail Blazers",
+      "emoji": "🏀"
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Cavaliers",
+      "emoji": "🏀"
+    },
+    {
+      "id": "TOR",
+      "name": "Toronto Raptors",
+      "emoji": "🦖"
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Mavericks",
+      "emoji": "🐴"
+    },
+    {
+      "id": "DEN",
+      "name": "Denver Nuggets",
+      "emoji": "⛏️"
+    }
+  ],
+  "frames": [
+    {
+      "period": 1947.0,
+      "label": "1947",
+      "values": {
+        "GSW": 1
+      }
+    },
+    {
+      "period": 1948.0,
+      "label": "1948",
+      "values": {
+        "GSW": 1,
+        "WAS": 1
+      }
+    },
+    {
+      "period": 1949.0,
+      "label": "1949",
+      "values": {
+        "LAL": 1,
+        "GSW": 1,
+        "WAS": 1
+      }
+    },
+    {
+      "period": 1950.0,
+      "label": "1950",
+      "values": {
+        "LAL": 2,
+        "GSW": 1,
+        "WAS": 1
+      }
+    },
+    {
+      "period": 1951.0,
+      "label": "1951",
+      "values": {
+        "LAL": 2,
+        "GSW": 1,
+        "WAS": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1952.0,
+      "label": "1952",
+      "values": {
+        "LAL": 3,
+        "GSW": 1,
+        "WAS": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1953.0,
+      "label": "1953",
+      "values": {
+        "LAL": 4,
+        "GSW": 1,
+        "WAS": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1954.0,
+      "label": "1954",
+      "values": {
+        "LAL": 5,
+        "GSW": 1,
+        "WAS": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1955.0,
+      "label": "1955",
+      "values": {
+        "LAL": 5,
+        "GSW": 1,
+        "PHI": 1,
+        "WAS": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1956.0,
+      "label": "1956",
+      "values": {
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1957.0,
+      "label": "1957",
+      "values": {
+        "BOS": 1,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1958.0,
+      "label": "1958",
+      "values": {
+        "BOS": 1,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1959.0,
+      "label": "1959",
+      "values": {
+        "BOS": 2,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1960.0,
+      "label": "1960",
+      "values": {
+        "BOS": 3,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1961.0,
+      "label": "1961",
+      "values": {
+        "BOS": 4,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1962.0,
+      "label": "1962",
+      "values": {
+        "BOS": 5,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1963.0,
+      "label": "1963",
+      "values": {
+        "BOS": 6,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1964.0,
+      "label": "1964",
+      "values": {
+        "BOS": 7,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1965.0,
+      "label": "1965",
+      "values": {
+        "BOS": 8,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1966.0,
+      "label": "1966",
+      "values": {
+        "BOS": 9,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1967.0,
+      "label": "1967",
+      "values": {
+        "BOS": 9,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 2,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1968.0,
+      "label": "1968",
+      "values": {
+        "BOS": 10,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 2,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1969.0,
+      "label": "1969",
+      "values": {
+        "BOS": 11,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 2,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1970.0,
+      "label": "1970",
+      "values": {
+        "BOS": 11,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 2,
+        "NYK": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1971.0,
+      "label": "1971",
+      "values": {
+        "BOS": 11,
+        "LAL": 5,
+        "GSW": 2,
+        "PHI": 2,
+        "NYK": 1,
+        "MIL": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1972.0,
+      "label": "1972",
+      "values": {
+        "BOS": 11,
+        "LAL": 6,
+        "GSW": 2,
+        "PHI": 2,
+        "NYK": 1,
+        "MIL": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1973.0,
+      "label": "1973",
+      "values": {
+        "BOS": 11,
+        "LAL": 6,
+        "GSW": 2,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1974.0,
+      "label": "1974",
+      "values": {
+        "BOS": 12,
+        "LAL": 6,
+        "GSW": 2,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1975.0,
+      "label": "1975",
+      "values": {
+        "BOS": 12,
+        "LAL": 6,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1976.0,
+      "label": "1976",
+      "values": {
+        "BOS": 13,
+        "LAL": 6,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1
+      }
+    },
+    {
+      "period": 1977.0,
+      "label": "1977",
+      "values": {
+        "BOS": 13,
+        "LAL": 6,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "WAS": 1,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1978.0,
+      "label": "1978",
+      "values": {
+        "BOS": 13,
+        "LAL": 6,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1979.0,
+      "label": "1979",
+      "values": {
+        "BOS": 13,
+        "LAL": 6,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1980.0,
+      "label": "1980",
+      "values": {
+        "BOS": 13,
+        "LAL": 7,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1981.0,
+      "label": "1981",
+      "values": {
+        "BOS": 14,
+        "LAL": 7,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1982.0,
+      "label": "1982",
+      "values": {
+        "BOS": 14,
+        "LAL": 8,
+        "GSW": 3,
+        "PHI": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1983.0,
+      "label": "1983",
+      "values": {
+        "BOS": 14,
+        "LAL": 8,
+        "GSW": 3,
+        "PHI": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1984.0,
+      "label": "1984",
+      "values": {
+        "BOS": 15,
+        "LAL": 8,
+        "GSW": 3,
+        "PHI": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1985.0,
+      "label": "1985",
+      "values": {
+        "BOS": 15,
+        "LAL": 9,
+        "GSW": 3,
+        "PHI": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1986.0,
+      "label": "1986",
+      "values": {
+        "BOS": 16,
+        "LAL": 9,
+        "GSW": 3,
+        "PHI": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1987.0,
+      "label": "1987",
+      "values": {
+        "BOS": 16,
+        "LAL": 10,
+        "GSW": 3,
+        "PHI": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1988.0,
+      "label": "1988",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "PHI": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1989.0,
+      "label": "1989",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "PHI": 3,
+        "DET": 1,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1990.0,
+      "label": "1990",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1991.0,
+      "label": "1991",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 1,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1992.0,
+      "label": "1992",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 2,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1993.0,
+      "label": "1993",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 3,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1994.0,
+      "label": "1994",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 3,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 1,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1995.0,
+      "label": "1995",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 3,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1996.0,
+      "label": "1996",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 4,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1997.0,
+      "label": "1997",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 5,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1998.0,
+      "label": "1998",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 6,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 1999.0,
+      "label": "1999",
+      "values": {
+        "BOS": 16,
+        "LAL": 11,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 1,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2000.0,
+      "label": "2000",
+      "values": {
+        "BOS": 16,
+        "LAL": 12,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 1,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2001.0,
+      "label": "2001",
+      "values": {
+        "BOS": 16,
+        "LAL": 13,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 1,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2002.0,
+      "label": "2002",
+      "values": {
+        "BOS": 16,
+        "LAL": 14,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 1,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2003.0,
+      "label": "2003",
+      "values": {
+        "BOS": 16,
+        "LAL": 14,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 2,
+        "PHI": 3,
+        "DET": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2004.0,
+      "label": "2004",
+      "values": {
+        "BOS": 16,
+        "LAL": 14,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 2,
+        "PHI": 3,
+        "DET": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2005.0,
+      "label": "2005",
+      "values": {
+        "BOS": 16,
+        "LAL": 14,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 3,
+        "PHI": 3,
+        "DET": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2006.0,
+      "label": "2006",
+      "values": {
+        "BOS": 16,
+        "LAL": 14,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 3,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 1,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2007.0,
+      "label": "2007",
+      "values": {
+        "BOS": 16,
+        "LAL": 14,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 4,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 1,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2008.0,
+      "label": "2008",
+      "values": {
+        "BOS": 17,
+        "LAL": 14,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 4,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 1,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2009.0,
+      "label": "2009",
+      "values": {
+        "BOS": 17,
+        "LAL": 15,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 4,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 1,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2010.0,
+      "label": "2010",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 4,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 1,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1
+      }
+    },
+    {
+      "period": 2011.0,
+      "label": "2011",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 4,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 1,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2012.0,
+      "label": "2012",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 4,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 2,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2013.0,
+      "label": "2013",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 4,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2014.0,
+      "label": "2014",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 3,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2015.0,
+      "label": "2015",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 4,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2016.0,
+      "label": "2016",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 4,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2017.0,
+      "label": "2017",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 5,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2018.0,
+      "label": "2018",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 6,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2019.0,
+      "label": "2019",
+      "values": {
+        "BOS": 17,
+        "LAL": 16,
+        "GSW": 6,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2020.0,
+      "label": "2020",
+      "values": {
+        "BOS": 17,
+        "LAL": 17,
+        "GSW": 6,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 1,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2021.0,
+      "label": "2021",
+      "values": {
+        "BOS": 17,
+        "LAL": 17,
+        "GSW": 6,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 2,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2022.0,
+      "label": "2022",
+      "values": {
+        "BOS": 17,
+        "LAL": 17,
+        "GSW": 7,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 2,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1
+      }
+    },
+    {
+      "period": 2023.0,
+      "label": "2023",
+      "values": {
+        "BOS": 17,
+        "LAL": 17,
+        "GSW": 7,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 2,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1,
+        "DEN": 1
+      }
+    },
+    {
+      "period": 2024.0,
+      "label": "2024",
+      "values": {
+        "BOS": 18,
+        "LAL": 17,
+        "GSW": 7,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 2,
+        "OKC": 1,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1,
+        "DEN": 1
+      }
+    },
+    {
+      "period": 2025.0,
+      "label": "2025",
+      "values": {
+        "BOS": 18,
+        "LAL": 17,
+        "GSW": 7,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 2,
+        "MIL": 2,
+        "OKC": 2,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1,
+        "DEN": 1
+      }
+    },
+    {
+      "period": 2026.0,
+      "label": "2026",
+      "values": {
+        "BOS": 18,
+        "LAL": 17,
+        "GSW": 7,
+        "CHI": 6,
+        "SAS": 5,
+        "PHI": 3,
+        "DET": 3,
+        "MIA": 3,
+        "NYK": 3,
+        "MIL": 2,
+        "OKC": 2,
+        "HOU": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "SAC": 1,
+        "POR": 1,
+        "CLE": 1,
+        "TOR": 1,
+        "DAL": 1,
+        "DEN": 1
+      }
+    }
+  ]
+}

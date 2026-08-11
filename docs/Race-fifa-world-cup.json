@@ -1,0 +1,324 @@
+{
+  "id": "fifa-world-cup-winners",
+  "name": "FIFA World Cup Winners",
+  "subtitle": "Cumulative FIFA Men's World Cup titles, 1930 → 2026",
+  "category": "sport",
+  "symbolName": "trophy.fill",
+  "accent": "green",
+  "metric": "Cumulative World Cup titles",
+  "unit": "titles",
+  "valueScale": 1,
+  "valuePrefix": "",
+  "valueSuffix": "",
+  "decimals": 0,
+  "source": "FIFA",
+  "sourceURL": "https://www.fifa.com/en/tournaments/mens/worldcup",
+  "latestActual": 2026,
+  "note": "Cumulative FIFA Men's World Cup titles after each tournament. The 2026 tournament is included as the latest completed edition.",
+  "entities": [
+    {
+      "id": "BRA",
+      "name": "Brazil",
+      "emoji": "🇧🇷"
+    },
+    {
+      "id": "GER",
+      "name": "Germany",
+      "emoji": "🇩🇪"
+    },
+    {
+      "id": "ITA",
+      "name": "Italy",
+      "emoji": "🇮🇹"
+    },
+    {
+      "id": "ARG",
+      "name": "Argentina",
+      "emoji": "🇦🇷"
+    },
+    {
+      "id": "FRA",
+      "name": "France",
+      "emoji": "🇫🇷"
+    },
+    {
+      "id": "URU",
+      "name": "Uruguay",
+      "emoji": "🇺🇾"
+    },
+    {
+      "id": "ESP",
+      "name": "Spain",
+      "emoji": "🇪🇸"
+    },
+    {
+      "id": "ENG",
+      "name": "England",
+      "emoji": "🏴"
+    }
+  ],
+  "frames": [
+    {
+      "period": 1930.0,
+      "label": "1930",
+      "values": {
+        "URU": 1
+      }
+    },
+    {
+      "period": 1934.0,
+      "label": "1934",
+      "values": {
+        "ITA": 1,
+        "URU": 1
+      }
+    },
+    {
+      "period": 1938.0,
+      "label": "1938",
+      "values": {
+        "ITA": 2,
+        "URU": 1
+      }
+    },
+    {
+      "period": 1950.0,
+      "label": "1950",
+      "values": {
+        "ITA": 2,
+        "URU": 2
+      }
+    },
+    {
+      "period": 1954.0,
+      "label": "1954",
+      "values": {
+        "GER": 1,
+        "ITA": 2,
+        "URU": 2
+      }
+    },
+    {
+      "period": 1958.0,
+      "label": "1958",
+      "values": {
+        "BRA": 1,
+        "GER": 1,
+        "ITA": 2,
+        "URU": 2
+      }
+    },
+    {
+      "period": 1962.0,
+      "label": "1962",
+      "values": {
+        "BRA": 2,
+        "GER": 1,
+        "ITA": 2,
+        "URU": 2
+      }
+    },
+    {
+      "period": 1966.0,
+      "label": "1966",
+      "values": {
+        "BRA": 2,
+        "GER": 1,
+        "ITA": 2,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1970.0,
+      "label": "1970",
+      "values": {
+        "BRA": 3,
+        "GER": 1,
+        "ITA": 2,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1974.0,
+      "label": "1974",
+      "values": {
+        "BRA": 3,
+        "GER": 2,
+        "ITA": 2,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1978.0,
+      "label": "1978",
+      "values": {
+        "BRA": 3,
+        "GER": 2,
+        "ITA": 2,
+        "ARG": 1,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1982.0,
+      "label": "1982",
+      "values": {
+        "BRA": 3,
+        "GER": 2,
+        "ITA": 3,
+        "ARG": 1,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1986.0,
+      "label": "1986",
+      "values": {
+        "BRA": 3,
+        "GER": 2,
+        "ITA": 3,
+        "ARG": 2,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1990.0,
+      "label": "1990",
+      "values": {
+        "BRA": 3,
+        "GER": 3,
+        "ITA": 3,
+        "ARG": 2,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1994.0,
+      "label": "1994",
+      "values": {
+        "BRA": 4,
+        "GER": 3,
+        "ITA": 3,
+        "ARG": 2,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 1998.0,
+      "label": "1998",
+      "values": {
+        "BRA": 4,
+        "GER": 3,
+        "ITA": 3,
+        "ARG": 2,
+        "FRA": 1,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2002.0,
+      "label": "2002",
+      "values": {
+        "BRA": 5,
+        "GER": 3,
+        "ITA": 3,
+        "ARG": 2,
+        "FRA": 1,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2006.0,
+      "label": "2006",
+      "values": {
+        "BRA": 5,
+        "GER": 3,
+        "ITA": 4,
+        "ARG": 2,
+        "FRA": 1,
+        "URU": 2,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2010.0,
+      "label": "2010",
+      "values": {
+        "BRA": 5,
+        "GER": 3,
+        "ITA": 4,
+        "ARG": 2,
+        "FRA": 1,
+        "URU": 2,
+        "ESP": 1,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2014.0,
+      "label": "2014",
+      "values": {
+        "BRA": 5,
+        "GER": 4,
+        "ITA": 4,
+        "ARG": 2,
+        "FRA": 1,
+        "URU": 2,
+        "ESP": 1,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2018.0,
+      "label": "2018",
+      "values": {
+        "BRA": 5,
+        "GER": 4,
+        "ITA": 4,
+        "ARG": 2,
+        "FRA": 2,
+        "URU": 2,
+        "ESP": 1,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2022.0,
+      "label": "2022",
+      "values": {
+        "BRA": 5,
+        "GER": 4,
+        "ITA": 4,
+        "ARG": 3,
+        "FRA": 2,
+        "URU": 2,
+        "ESP": 1,
+        "ENG": 1
+      }
+    },
+    {
+      "period": 2026.0,
+      "label": "2026",
+      "values": {
+        "BRA": 5,
+        "GER": 4,
+        "ITA": 4,
+        "ARG": 3,
+        "FRA": 2,
+        "URU": 2,
+        "ESP": 2,
+        "ENG": 1
+      }
+    }
+  ]
+}

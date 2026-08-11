@@ -1,0 +1,448 @@
+{
+  "id": "richest-countries-gdp-per-capita",
+  "name": "The World's Richest Countries",
+  "subtitle": "GDP per capita, current US$, 1960 → 2026",
+  "category": "economy",
+  "symbolName": "dollarsign.circle.fill",
+  "accent": "green",
+  "metric": "GDP per capita",
+  "unit": "US dollars per person",
+  "valueScale": 1,
+  "valuePrefix": "$",
+  "valueSuffix": "",
+  "decimals": 0,
+  "source": "World Bank (1960–2025) + International Monetary Fund WEO (2026 estimate)",
+  "sourceURL": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD",
+  "latestActual": 2025,
+  "latestEstimate": 2026,
+  "note": "Source-aligned dataset structure for an animated race. The World Bank GDP-per-capita (current US$) series covers 1960–2025. The IMF WEO April 2026 database begins its published WEO series in 1980 and provides estimates/projections; 2026 should therefore be labeled as an estimate. Numeric frame values are intentionally left empty here rather than fabricated; populate them from the downloaded source files before publishing.",
+  "entities": [
+    {
+      "id": "LUX",
+      "name": "Luxembourg",
+      "emoji": "🇱🇺"
+    },
+    {
+      "id": "SGP",
+      "name": "Singapore",
+      "emoji": "🇸🇬"
+    },
+    {
+      "id": "IRL",
+      "name": "Ireland",
+      "emoji": "🇮🇪"
+    },
+    {
+      "id": "QAT",
+      "name": "Qatar",
+      "emoji": "🇶🇦"
+    },
+    {
+      "id": "CHE",
+      "name": "Switzerland",
+      "emoji": "🇨🇭"
+    },
+    {
+      "id": "NOR",
+      "name": "Norway",
+      "emoji": "🇳🇴"
+    },
+    {
+      "id": "USA",
+      "name": "United States",
+      "emoji": "🇺🇸"
+    },
+    {
+      "id": "DNK",
+      "name": "Denmark",
+      "emoji": "🇩🇰"
+    },
+    {
+      "id": "NLD",
+      "name": "Netherlands",
+      "emoji": "🇳🇱"
+    },
+    {
+      "id": "AUS",
+      "name": "Australia",
+      "emoji": "🇦🇺"
+    },
+    {
+      "id": "CAN",
+      "name": "Canada",
+      "emoji": "🇨🇦"
+    },
+    {
+      "id": "GBR",
+      "name": "United Kingdom",
+      "emoji": "🇬🇧"
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "emoji": "🇯🇵"
+    },
+    {
+      "id": "DEU",
+      "name": "Germany",
+      "emoji": "🇩🇪"
+    },
+    {
+      "id": "FRA",
+      "name": "France",
+      "emoji": "🇫🇷"
+    },
+    {
+      "id": "ITA",
+      "name": "Italy",
+      "emoji": "🇮🇹"
+    },
+    {
+      "id": "CHN",
+      "name": "China",
+      "emoji": "🇨🇳"
+    },
+    {
+      "id": "IND",
+      "name": "India",
+      "emoji": "🇮🇳"
+    }
+  ],
+  "frames": [
+    {
+      "period": 1960.0,
+      "label": "1960",
+      "values": {}
+    },
+    {
+      "period": 1961.0,
+      "label": "1961",
+      "values": {}
+    },
+    {
+      "period": 1962.0,
+      "label": "1962",
+      "values": {}
+    },
+    {
+      "period": 1963.0,
+      "label": "1963",
+      "values": {}
+    },
+    {
+      "period": 1964.0,
+      "label": "1964",
+      "values": {}
+    },
+    {
+      "period": 1965.0,
+      "label": "1965",
+      "values": {}
+    },
+    {
+      "period": 1966.0,
+      "label": "1966",
+      "values": {}
+    },
+    {
+      "period": 1967.0,
+      "label": "1967",
+      "values": {}
+    },
+    {
+      "period": 1968.0,
+      "label": "1968",
+      "values": {}
+    },
+    {
+      "period": 1969.0,
+      "label": "1969",
+      "values": {}
+    },
+    {
+      "period": 1970.0,
+      "label": "1970",
+      "values": {}
+    },
+    {
+      "period": 1971.0,
+      "label": "1971",
+      "values": {}
+    },
+    {
+      "period": 1972.0,
+      "label": "1972",
+      "values": {}
+    },
+    {
+      "period": 1973.0,
+      "label": "1973",
+      "values": {}
+    },
+    {
+      "period": 1974.0,
+      "label": "1974",
+      "values": {}
+    },
+    {
+      "period": 1975.0,
+      "label": "1975",
+      "values": {}
+    },
+    {
+      "period": 1976.0,
+      "label": "1976",
+      "values": {}
+    },
+    {
+      "period": 1977.0,
+      "label": "1977",
+      "values": {}
+    },
+    {
+      "period": 1978.0,
+      "label": "1978",
+      "values": {}
+    },
+    {
+      "period": 1979.0,
+      "label": "1979",
+      "values": {}
+    },
+    {
+      "period": 1980.0,
+      "label": "1980",
+      "values": {}
+    },
+    {
+      "period": 1981.0,
+      "label": "1981",
+      "values": {}
+    },
+    {
+      "period": 1982.0,
+      "label": "1982",
+      "values": {}
+    },
+    {
+      "period": 1983.0,
+      "label": "1983",
+      "values": {}
+    },
+    {
+      "period": 1984.0,
+      "label": "1984",
+      "values": {}
+    },
+    {
+      "period": 1985.0,
+      "label": "1985",
+      "values": {}
+    },
+    {
+      "period": 1986.0,
+      "label": "1986",
+      "values": {}
+    },
+    {
+      "period": 1987.0,
+      "label": "1987",
+      "values": {}
+    },
+    {
+      "period": 1988.0,
+      "label": "1988",
+      "values": {}
+    },
+    {
+      "period": 1989.0,
+      "label": "1989",
+      "values": {}
+    },
+    {
+      "period": 1990.0,
+      "label": "1990",
+      "values": {}
+    },
+    {
+      "period": 1991.0,
+      "label": "1991",
+      "values": {}
+    },
+    {
+      "period": 1992.0,
+      "label": "1992",
+      "values": {}
+    },
+    {
+      "period": 1993.0,
+      "label": "1993",
+      "values": {}
+    },
+    {
+      "period": 1994.0,
+      "label": "1994",
+      "values": {}
+    },
+    {
+      "period": 1995.0,
+      "label": "1995",
+      "values": {}
+    },
+    {
+      "period": 1996.0,
+      "label": "1996",
+      "values": {}
+    },
+    {
+      "period": 1997.0,
+      "label": "1997",
+      "values": {}
+    },
+    {
+      "period": 1998.0,
+      "label": "1998",
+      "values": {}
+    },
+    {
+      "period": 1999.0,
+      "label": "1999",
+      "values": {}
+    },
+    {
+      "period": 2000.0,
+      "label": "2000",
+      "values": {}
+    },
+    {
+      "period": 2001.0,
+      "label": "2001",
+      "values": {}
+    },
+    {
+      "period": 2002.0,
+      "label": "2002",
+      "values": {}
+    },
+    {
+      "period": 2003.0,
+      "label": "2003",
+      "values": {}
+    },
+    {
+      "period": 2004.0,
+      "label": "2004",
+      "values": {}
+    },
+    {
+      "period": 2005.0,
+      "label": "2005",
+      "values": {}
+    },
+    {
+      "period": 2006.0,
+      "label": "2006",
+      "values": {}
+    },
+    {
+      "period": 2007.0,
+      "label": "2007",
+      "values": {}
+    },
+    {
+      "period": 2008.0,
+      "label": "2008",
+      "values": {}
+    },
+    {
+      "period": 2009.0,
+      "label": "2009",
+      "values": {}
+    },
+    {
+      "period": 2010.0,
+      "label": "2010",
+      "values": {}
+    },
+    {
+      "period": 2011.0,
+      "label": "2011",
+      "values": {}
+    },
+    {
+      "period": 2012.0,
+      "label": "2012",
+      "values": {}
+    },
+    {
+      "period": 2013.0,
+      "label": "2013",
+      "values": {}
+    },
+    {
+      "period": 2014.0,
+      "label": "2014",
+      "values": {}
+    },
+    {
+      "period": 2015.0,
+      "label": "2015",
+      "values": {}
+    },
+    {
+      "period": 2016.0,
+      "label": "2016",
+      "values": {}
+    },
+    {
+      "period": 2017.0,
+      "label": "2017",
+      "values": {}
+    },
+    {
+      "period": 2018.0,
+      "label": "2018",
+      "values": {}
+    },
+    {
+      "period": 2019.0,
+      "label": "2019",
+      "values": {}
+    },
+    {
+      "period": 2020.0,
+      "label": "2020",
+      "values": {}
+    },
+    {
+      "period": 2021.0,
+      "label": "2021",
+      "values": {}
+    },
+    {
+      "period": 2022.0,
+      "label": "2022",
+      "values": {}
+    },
+    {
+      "period": 2023.0,
+      "label": "2023",
+      "values": {}
+    },
+    {
+      "period": 2024.0,
+      "label": "2024",
+      "values": {}
+    },
+    {
+      "period": 2025.0,
+      "label": "2025",
+      "values": {}
+    },
+    {
+      "period": 2026.0,
+      "label": "2026",
+      "values": {}
+    }
+  ]
+}

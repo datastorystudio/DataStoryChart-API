@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 16,
+  "version": 17,
   "datasets": [
     {
       "id": "cities",
@@ -27,6 +27,12 @@
       "bytes": 3226
     },
     {
+      "id": "fifa-world-cup-winners",
+      "version": 1,
+      "path": "Race-fifa-world-cup.json",
+      "bytes": 5492
+    },
+    {
       "id": "gdp",
       "version": 1,
       "path": "Race-gdp.json",
@@ -45,6 +51,12 @@
       "bytes": 9692
     },
     {
+      "id": "nba-championships",
+      "version": 1,
+      "path": "Race-nba-championships.json",
+      "bytes": 26142
+    },
+    {
       "id": "olympics",
       "version": 1,
       "path": "Race-olympics.json",
@@ -61,6 +73,12 @@
       "version": 1,
       "path": "Race-renewables.json",
       "bytes": 6534
+    },
+    {
+      "id": "richest-countries-gdp-per-capita",
+      "version": 1,
+      "path": "Race-richest-countries-1960-2026.json",
+      "bytes": 7872
     },
     {
       "id": "smartphone-market",
@@ -88,6 +106,9 @@
     "streaming": "9c883cbfa7cec98d",
     "space-launches": "e095a5d7b6c2c052",
     "smartphone-market": "9cfd105c7c03fe18",
-    "odi-cricket-world-cup": "c2132362e87c3916"
+    "odi-cricket-world-cup": "c2132362e87c3916",
+    "fifa-world-cup-winners": "9a23cbf3ad13c94b",
+    "nba-championships": "355910f7dedc3019",
+    "richest-countries-gdp-per-capita": "6b896cbabdfaefd0"
   }
 }
