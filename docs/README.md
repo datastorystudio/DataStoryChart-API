@@ -1,6 +1,7 @@
 # DataStory Studio — story data
 
-Public data for the [DataStory Studio](https://apps.apple.com/) iOS app. Every
+Public data for the [DataStory Studio](https://apps.apple.com/app/id6800584845)
+iOS app. Every
 file here is served straight from this branch by GitHub Pages, so
 pushing to `main` is the whole deploy.
 
@@ -39,6 +40,48 @@ of `remote/` into this repository.
 | `datasets[].bytes` | Exact file size. A download that does not match is discarded — truncated responses are the common failure and they are silent. |
 
 `_fingerprints` is publishing bookkeeping. The app's decoder ignores it.
+
+## app.json — supported versions
+
+Separate from `manifest.json`, and hand-edited. The two change on different
+schedules — the catalog when the data changes, this when a release goes out —
+and sharing one file would mean a story edit and a forced upgrade shared a
+version number.
+
+```json
+{
+  "schema": 1,
+  "minimumVersion": "1.0.1",
+  "latestVersion": "1.2.0",
+  "message": null,
+  "appStoreID": null
+}
+```
+
+| Field | Meaning |
+|---|---|
+| `schema` | Format version. A build ignores a file whose schema is newer than it understands — it will not guess at fields it may be reading wrong. Omitting this reads as `1`. |
+| `minimumVersion` | Builds below this are **blocked** behind a full-screen gate with no way past. Omit, or leave `null`, to block nobody. |
+| `latestVersion` | Builds below this see a dismissible bar. Dismissal is remembered per version, so the next release still gets to speak. |
+| `message` | Replaces the default explanation on the blocking screen. `null` uses the standard wording. |
+| `appStoreID` | Numeric App Store ID, so the Update button can be pointed at a live listing without shipping a build. Falls back to `AppInfo.appStoreID`. Non-numeric values are ignored and the button hides. |
+
+Versions are compared component by component as integers, so `1.10.0` is
+correctly newer than `1.9.0`, and `1.2` and `1.2.0` are the same version.
+
+**`minimumVersion` locks people out of the app. Treat it that way.**
+
+- Set it to a version that is actually live on the App Store and propagated.
+  Pointing it at a build still in review leaves everyone stuck with an Update
+  button that shows *Open*.
+- The verdict is cached on the device, so a device that has read this file once
+  stays gated even offline — that is deliberate, or the gate would be defeated
+  by aeroplane mode. The corollary is that a mistake here is not fixed by
+  reverting alone: affected devices need one more foreground with a network to
+  pick up the correction.
+- A device that has *never* successfully fetched this file is never gated, so a
+  fresh install with no network still opens.
+- Every failure to fetch is silent and changes nothing.
 
 ## Rules the app enforces
 

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 17,
+  "version": 18,
   "datasets": [
     {
       "id": "cities",
@@ -75,12 +75,6 @@
       "bytes": 6534
     },
     {
-      "id": "richest-countries-gdp-per-capita",
-      "version": 1,
-      "path": "Race-richest-countries-1960-2026.json",
-      "bytes": 7872
-    },
-    {
       "id": "smartphone-market",
       "version": 1,
       "path": "Race-smartphone-market.json",
@@ -108,7 +102,6 @@
     "smartphone-market": "9cfd105c7c03fe18",
     "odi-cricket-world-cup": "c2132362e87c3916",
     "fifa-world-cup-winners": "9a23cbf3ad13c94b",
-    "nba-championships": "355910f7dedc3019",
-    "richest-countries-gdp-per-capita": "6b896cbabdfaefd0"
+    "nba-championships": "355910f7dedc3019"
   }
 }

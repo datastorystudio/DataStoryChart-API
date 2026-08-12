@@ -30,7 +30,7 @@
 <main>
 
 <h1>Privacy Policy</h1>
-<p class="updated">DataStory Studio · Last updated 3 August 2026</p>
+<p class="updated">DataStory Studio · Last updated 12 August 2026</p>
 
 <p class="lede">DataStory Studio has no accounts, no analytics, no advertising and
 no tracking of any kind. We do not collect, store or transmit your personal
@@ -56,16 +56,25 @@ because it has no server at all.</p>
 receive one.</p>
 
 <h2>When the app uses the internet</h2>
-<p>The app makes network requests in exactly one situation: when you tap
+<p>The app makes network requests in two situations, and no others.</p>
+<p><strong>Story data — only when you ask.</strong> When you tap
 <em>Check for updates</em> on the Stories screen, pull to refresh, or use the
-same option in Settings. It then downloads publicly available statistics from a
-public GitHub repository.</p>
-<p>This never happens automatically. There is no check on launch and no
-background refresh — the app only reaches the network when you ask it to.</p>
-<p>These requests send no personal information and nothing about your data,
-your videos or your usage. As with visiting any web page, GitHub receives the
-standard information any web server does, including your IP address, and
-handles it under
+same option in Settings, the app downloads publicly available statistics from a
+public GitHub repository. This never happens on its own: there is no story
+download on launch and no background refresh.</p>
+<p><strong>Version check — on launch.</strong> When the app opens, and when you
+return to it, it reads one small file from the same public repository. That file
+says which versions of the app are still supported, so that a version with a
+serious problem can be told to update rather than left running. The request
+sends nothing about you: it asks for a fixed web address and reads the answer.
+The app does not send your version number, your device, an identifier, or
+anything else — it compares the versions on your device, after the file arrives.
+The answer is remembered so that the app still knows where it stands when it is
+offline.</p>
+<p>Neither request sends personal information, and neither sends anything about
+your data, your videos or your usage. As with visiting any web page, GitHub
+receives the standard information any web server does, including your IP
+address, and handles it under
 <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub's
 privacy statement</a>. We receive nothing.</p>
 
