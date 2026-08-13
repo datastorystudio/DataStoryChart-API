@@ -69,6 +69,18 @@ version number.
 Versions are compared component by component as integers, so `1.10.0` is
 correctly newer than `1.9.0`, and `1.2` and `1.2.0` are the same version.
 
+### When a change here reaches people
+
+The app reads this file **once per session, from the home screen**, and only if
+the device is already online. What it reads is written to a cache and used at
+the **next** launch — it never changes what is on screen mid-session. So a push
+here takes effect on a given device after: the CDN catches up (~5 minutes), that
+device opens the app once, and then opens it again.
+
+That lag is deliberate. A gate that can appear while someone is halfway through
+importing a file is a trapdoor, and a build old enough to need blocking has
+already been running for days — one more launch changes nothing.
+
 **`minimumVersion` locks people out of the app. Treat it that way.**
 
 - Set it to a version that is actually live on the App Store and propagated.
@@ -77,8 +89,8 @@ correctly newer than `1.9.0`, and `1.2` and `1.2.0` are the same version.
 - The verdict is cached on the device, so a device that has read this file once
   stays gated even offline — that is deliberate, or the gate would be defeated
   by aeroplane mode. The corollary is that a mistake here is not fixed by
-  reverting alone: affected devices need one more foreground with a network to
-  pick up the correction.
+  reverting alone: affected devices need two more launches with a network to
+  pick up the correction, one to fetch it and one to act on it.
 - A device that has *never* successfully fetched this file is never gated, so a
   fresh install with no network still opens.
 - Every failure to fetch is silent and changes nothing.

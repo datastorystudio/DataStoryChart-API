@@ -62,15 +62,17 @@ receive one.</p>
 same option in Settings, the app downloads publicly available statistics from a
 public GitHub repository. This never happens on its own: there is no story
 download on launch and no background refresh.</p>
-<p><strong>Version check — on launch.</strong> When the app opens, and when you
-return to it, it reads one small file from the same public repository. That file
-says which versions of the app are still supported, so that a version with a
-serious problem can be told to update rather than left running. The request
-sends nothing about you: it asks for a fixed web address and reads the answer.
-The app does not send your version number, your device, an identifier, or
-anything else — it compares the versions on your device, after the file arrives.
-The answer is remembered so that the app still knows where it stands when it is
-offline.</p>
+<p><strong>Supported version check — once, when the main screen opens.</strong>
+After the app has finished opening, once per session and only if you are already
+online, it reads one small file from the same public repository. That file says
+which versions of the app are still supported, so that a version with a serious
+problem can be told to update rather than left running quietly.</p>
+<p>The request sends nothing about you. It asks for a fixed web address and
+reads the answer — no version number, no device details, no identifier, nothing
+about what you have made. The comparison happens on your device, after the file
+arrives. The answer is saved on your device so the app still knows where it
+stands when it is offline, and it is used the next time you open the app rather
+than interrupting the session you are in.</p>
 <p>Neither request sends personal information, and neither sends anything about
 your data, your videos or your usage. As with visiting any web page, GitHub
 receives the standard information any web server does, including your IP
