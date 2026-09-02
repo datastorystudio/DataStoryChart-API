@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "minimumVersion": "1.0.0",
-  "latestVersion": "1.0.0",
-  "message": null,
-  "appStoreID": null
+  "minimumVersion": "1.0.1",
+  "latestVersion": "1.0.1",
+  "message": "A new version of DataStory Studio is required to continue. Please update from the App Store.",
+  "appStoreID": "6800584845"
 }
